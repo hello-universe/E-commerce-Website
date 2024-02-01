@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.selected{
+    background-color: black;
+    color: white;
+}
+.selected-large{
+    border-bottom: 3px solid #EF4444;
+
+}
