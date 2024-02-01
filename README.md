@@ -1,2 +1,1 @@
-# E-commerce-Website
-This repo will be about my e-commerce website
+# This is an E commerce Website project
